@@ -13,9 +13,9 @@
 
 
 💻 Tools I use:
-Python | SQL | Microsoft Excel | Power BI (my favorite 😊) | Google sheets
+Python | SQL | Microsoft Excel | Power BI  | Google sheets
 
 📌 Fun Fact: I love learning, experimenting, and solving problems through hands-on data projects!
 
-📬 Let’s connect on linkedin ! I’m open to Data Analytics roles, freelance gigs, and collaborative projects. Feel free to reach out—I’m always ready to bring your data to life!
+📬 Let’s connect, I’m open to Data Analytics roles, freelance gigs, and collaborative projects. Feel free to reach out—I’m always ready to bring your data to life!
 
