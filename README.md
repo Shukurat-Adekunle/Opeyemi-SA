@@ -1,4 +1,4 @@
-# Opeyemi-SA
+# Shukurat-Adekunle
 👋 Hi there! I’m a passionate Data Analyst with hands-on experience in extracting, cleaning, and validating data to ensure accuracy, consistency, and reliability across data sets.
 
 ✨ Here’s what I bring to the table:
